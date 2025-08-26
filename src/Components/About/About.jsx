@@ -16,7 +16,7 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p> I am a passionate and dedicated Frontend Developer with strong knowledge of HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS. I enjoy designing clean, responsive, and user-friendly interfaces that enhance the overall user experience.</p>
+                <p> I am a passionate and dedicated Web Developer with strong knowledge of HTML, CSS, JavaScript, React, Bootstrap, and Tailwind CSS,Core Java, SQL. I enjoy designing clean, responsive, and user-friendly interfaces that enhance the overall user experience.</p>
                 
             </div>
             <div className="about-skills">
@@ -24,6 +24,7 @@ const About = () => {
                 <div className="about-skill"><p>React JS</p><hr style={{width:"50%"}} /></div>
                 <div className="about-skill"><p>Javascript</p><hr style={{width:"60%"}} /></div>
                 <div className="about-skill"><p>CORE JAVA</p><hr style={{width:"40%"}} /></div>
+                <div className="about-skill"><p>SQL</p><hr style={{width:"50%"}} /></div>
             </div>
         </div>
       </div>
